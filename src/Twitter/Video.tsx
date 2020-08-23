@@ -1,5 +1,5 @@
 import React from "react";
-import Video from "react-native-video";
+import { Video } from "expo-av";
 import {
   TouchableWithoutFeedback,
   View,
